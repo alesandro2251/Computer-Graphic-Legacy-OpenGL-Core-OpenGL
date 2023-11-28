@@ -1,0 +1,68 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.05.2011 16:24:04
+
+newmtl _10614_2DoorSportscarblinn1SG
+	Ns 100.0000
+	Ni 1.5000
+	d 0.2000
+	Tr 0.8000
+	Tf 0.2000 0.2000 0.2000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.5900 1.0000
+	Ks 0.4000 0.4000 0.4000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _10614_2DoorSportscarblinn4SG
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3098 0.3098 0.3098
+	Kd 0.3098 0.3098 0.3098
+	Ks 0.7800 0.7800 0.7800
+	Ke 0.0000 0.0000 0.0000
+	map_refl Lakerem.jpg
+
+newmtl _10614_2DoorSportscarblinn3SG
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.5882 0.5882 0.5882
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Sportscar_C.jpg
+	map_Kd Sportscar_C.jpg
+	map_refl Lakerem.jpg
+
+newmtl _10614_2DoorSportscarblinn5SG
+	Ns 72.0000
+	Ni 1.5000
+	d 0.7200
+	Tr 0.2800
+	Tf 0.7200 0.7200 0.7200 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 0.4800 0.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _10614_2DoorSportscarblinn3SGrubber
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.1750 0.1750 0.1750
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Sportscar_C.jpg
+	map_Kd Sportscar_C.jpg

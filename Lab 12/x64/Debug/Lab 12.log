@@ -1,0 +1,11 @@
+﻿  SDL_OGL_SG.cpp
+C:\Users\alesa\Desktop\CG2023\Lab 12\Lab 12\Shader.h(71,8): warning C4101: 'infoLog': unreferenced local variable
+C:\Users\alesa\Desktop\CG2023\Lab 12\Lab 12\Shader.h(70,7): warning C4101: 'success': unreferenced local variable
+C:\Users\alesa\Desktop\CG2023\Lab 12\Lab 12\mesh.h(89,44): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\alesa\Desktop\CG2023\Lab 12\Lab 12\GroupNode.h(28,23): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\alesa\Desktop\CG2023\Lab 12\Lab 12\SDL_OGL_SG.cpp(154,17): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+C:\Users\alesa\Desktop\CG2023\Lab 12\Lab 12\SDL_OGL_SG.cpp(155,17): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+C:\Users\alesa\Desktop\CG2023\Lab 12\Lab 12\SDL_OGL_SG.cpp(161,17): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+C:\Users\alesa\Desktop\CG2023\Lab 12\Lab 12\SDL_OGL_SG.cpp(162,17): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+C:\Users\alesa\Desktop\CG2023\Lab 12\Lab 12\SDL_OGL_SG.cpp(168,33): warning C4244: 'argument': conversion from 'const Sint32' to 'float', possible loss of data
+  Lab 12.vcxproj -> C:\Users\alesa\Desktop\CG2023\Lab 12\x64\Debug\Lab 12.exe
