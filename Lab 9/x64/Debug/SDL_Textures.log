@@ -1,0 +1,4 @@
+﻿  SDL_OGL_Texture.cpp
+C:\Users\alesa\Desktop\CG2023\SDL_Textures\SDL_Textures\Shader.h(54,8): warning C4101: 'infoLog': unreferenced local variable
+C:\Users\alesa\Desktop\CG2023\SDL_Textures\SDL_Textures\Shader.h(53,7): warning C4101: 'success': unreferenced local variable
+  SDL_Textures.vcxproj -> C:\Users\alesa\Desktop\CG2023\SDL_Textures\x64\Debug\SDL_Textures.exe
